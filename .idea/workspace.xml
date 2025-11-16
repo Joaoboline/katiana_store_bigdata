@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be23d95b-8e83-43e2-8179-cfbdcf243298" name="Changes" comment="commit 09/11">
-      <change afterPath="$PROJECT_DIR$/out/katiana_excel_plotly_dashboard_20251112_153159.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/katiana_excel_plotly_dashboard_20251112_153323.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/katiana_excel_plotly_dashboard.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/out/katiana_excel_plotly_dashboard.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/plot_previsao_30_dias.html" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plot_previsao_30_dias.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/plot_previsao_30_dias.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plot_previsao_30_dias.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plots/plot_receita_diaria.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/plot_receita_diaria.png" afterDir="false" />
